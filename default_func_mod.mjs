@@ -1,0 +1,1 @@
+export default function(val2) { console.log(`val2 = ${val2}`) }
